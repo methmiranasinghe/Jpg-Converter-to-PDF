@@ -1,2 +1,2 @@
-# Jpg-Converter-to-PDF
+# Jpg-to-PDF-Converter
 jpg to pdf converter
